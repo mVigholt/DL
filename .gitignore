@@ -161,4 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+# Private data and folders: 
 Jackie/wandb/
+Martin/A2/data
+Martin/A2/MNIST
