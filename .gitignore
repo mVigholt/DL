@@ -166,3 +166,6 @@ cython_debug/
 Jackie/wandb/
 Martin/A2/data
 Martin/A2/MNIST
+A3/Ex2/models
+A3/Ex2/datasets
+A3/Ex3/finetuned_model
